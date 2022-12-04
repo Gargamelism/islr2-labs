@@ -1,2 +1,2 @@
 # islr2-labs
-ISLR2 labs
+My Python answers to https://www.statlearning.com/
